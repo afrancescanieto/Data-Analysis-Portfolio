@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # # Portfolio Analysis
-# #### Adrian Nieto Manzanares
+# #### Amanda Nieto Manzanares
 
 # ## What to expect: 
 # 
